@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Desafio</title>
+</head>
+<body>
+  <div class="container mt-5">
+    <h1 class="text-center">Desafio JavaScript</h1>
+    <p class="text-center">Informe um número inteiro positivo para calcular o somatório dos valores divisíveis por 3 ou 5 menores que o número informado:</p>
+    <div class="input-group mb-3">
+      <input type="number" id="inputNumber" class="form-control" placeholder="Informe um número" onkeydown="handleKeyPress(event)">
+      <div class="input-group-append">
+        <button class="btn btn-primary" type="button" onclick="calcularSomatorio()">Calcular</button>
+      </div>
+    </div>
+    <p id="resultado" class="text-center">Resultado: </p>
+
+    <h2 class="mt-4">Histórico de Resultados</h2>
+    <table class="table">
+      <thead>
+        <tr>
+          <th>Data e Hora</th>
+          <th>Valor Informado</th>
+          <th>Resultado Obtido</th>
+        </tr>
+      </thead>
+      <tbody id="historicoBody"></tbody>
+    </table>
+
+    <button class="btn btn-danger" onclick="zerarHistorico()">Zerar Histórico</button>
+  </div>
+
+  <script src="script.js"></script>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
