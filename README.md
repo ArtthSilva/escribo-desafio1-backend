@@ -50,7 +50,8 @@ Você pode escolher entre duas opções para executar o projeto:
 3. Abra o arquivo `index.html` em seu navegador da web.
 
 <h2>📱 Teste utilizando o link abaixo</h2>
-  - link
+
+   [https://artthsilva.github.io/escribo-desafio1-backend/ ](https://artthsilva.github.io/escribo-desafio1-backend/)
 
 ---
 <h2>🤔 Funções JavaScript</h2> 
