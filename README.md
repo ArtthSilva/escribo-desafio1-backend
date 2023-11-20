@@ -77,3 +77,17 @@ Esta função é chamada quando o botão "Zerar Histórico" é clicado. Ela rede
 Esta função calcula o somatório dos números inteiros menores que o número passado como parâmetro e divisíveis por 3 ou 5. Ela é usada na função `calcularSomatorio()`.
 
 Espero que essas explicações sejam úteis! Se tiver mais dúvidas ou precisar de mais informações, sinta-se à vontade para perguntar.
+
+
+---
+
+   >Esse projeto foi desenvolvido com ❤️ por **[@Arthur Pereira](https://www.linkedin.com/in/arthur-silvap)**
+
+---
+
+   <div align="center">
+
+  <a href="https://www.linkedin.com/in/arthur-silvap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+
+   </div>
