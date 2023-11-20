@@ -11,19 +11,19 @@
    <p>
 
    - [📖 Detalhes do desafio](#-detalhes-do-desafio-realizado-em-javascript)
-   - [📱 Link para testar](#-opção-2:-entre-no-link-abaixo:)
+   - [📱 Link para testar](#-teste-utilizando-o-link-abaixo)
    - [🛠️ Como usar](#%EF%B8%8F-como-usar)
-   - [🔨Como Executar o Projeto](#%EF%B8%8F-como-executar-o-projeto)  
-   - [🤔 Funções existentes no projeto](#-como-rodar-e-testar-o-projeto)
+   - [🛠️ Como Executar o Projeto](#%EF%B8%8F-como-executar-o-projeto)  
+   - [🤔 Funções existentes no projeto](#-funções-javascript)
    </p>
 
 ---
 
-# Detalhes do desafio realizado em JavaScript
+<h2>📖 Detalhes do desafio realizado em JavaScript</h2> 
 
 Este projeto consiste em uma implementação em JavaScript, HTML e CSS para calcular o somatório dos valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número informado. Ele também inclui um histórico de resultados com data, hora, valor informado e resultado obtido.
 
-## Como usar
+<h2>🛠️ Como usar</h2> 
 
 1. Abra o arquivo `index.html` em um navegador web.
 
@@ -37,7 +37,7 @@ Este projeto consiste em uma implementação em JavaScript, HTML e CSS para calc
 
 ---
 
-## Como Executar o Projeto
+<h2>🛠️ Como Executar o Projeto</h2> 
 
 Você pode escolher entre duas opções para executar o projeto:
 
@@ -49,11 +49,11 @@ Você pode escolher entre duas opções para executar o projeto:
 
 3. Abra o arquivo `index.html` em seu navegador da web.
 
-### Opção 2: entre no link abaixo:
-    -link
+<h2>📱 Teste utilizando o link abaixo</h2>
+  - link
 
 ---
-## Funções JavaScript
+<h2>🤔 Funções JavaScript</h2> 
 
 ### `calcularSomatorio()`
 
